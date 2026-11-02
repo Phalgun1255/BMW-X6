@@ -1,0 +1,23 @@
+# Raw Video & Intermediate Archives
+*.mp4
+*.zip
+clip1-zip/
+clip2-zip/
+clip3-zip/
+flow-clip-zip/
+
+# Raw intermediates
+car.png
+e1.png
+e2.png
+k1.png
+k2.png
+k3.png
+k4.png
+
+# Environment & Cache
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+Thumbs.db
